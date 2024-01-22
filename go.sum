@@ -12,8 +12,8 @@ github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZN
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/stretchr/testify v1.8.0 h1:pSgiaMZlXftHpm5L7V1+rVB+AZJydKsMxsQBIJw4PKk=
-gitlab.beeps.cn/common/logs v1.3.1 h1:7WB7Ven43VUAh47iJhQcA6meU2QbXQSfUmBZmKH6Txc=
-gitlab.beeps.cn/common/logs v1.3.1/go.mod h1:qyaizbii8jDzpG0+QXqRu1N/lJDa5M5hynUx/UxO15o=
+github.com/tristin2024/logs v1.0.1 h1:lBz4KB9lzmYI5wN4+bivBSq1wov9kaP452eRdeP6j7U=
+github.com/tristin2024/logs v1.0.1/go.mod h1:VhO3n4AX+QDlFhcrFjgPjCTM1L+E3cF/yxPuzaiAfmQ=
 go.uber.org/atomic v1.7.0 h1:ADUqmZGgLDDfbSL9ZmPxKTybcoEYHgpYfELNoN+7hsw=
 go.uber.org/atomic v1.7.0/go.mod h1:fEN4uk6kAWBTFdckzkM89CLk9XfWZrxpCo0nPH17wJc=
 go.uber.org/goleak v1.1.11 h1:wy28qYRKZgnJTxGxvye5/wgWr1EKjmUDGYox5mGlRlI=

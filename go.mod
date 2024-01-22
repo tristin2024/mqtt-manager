@@ -1,10 +1,10 @@
-module gitlab.beeps.cn/common/mqtt-manager
+module github.com/tristin2024/mqtt-manager
 
 go 1.20
 
 require (
 	github.com/eclipse/paho.mqtt.golang v1.4.3
-	gitlab.beeps.cn/common/logs v1.3.1
+	github.com/tristin2024/logs v1.0.1
 )
 
 require (

@@ -5,7 +5,7 @@ import (
 	"time"
 
 	mqtt "github.com/eclipse/paho.mqtt.golang"
-	"gitlab.beeps.cn/common/logs"
+	"github.com/tristin2024/logs"
 )
 
 type PreModel map[string]func(client mqtt.Client, message mqtt.Message)
